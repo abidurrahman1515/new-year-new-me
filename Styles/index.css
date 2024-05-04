@@ -1,3 +1,41 @@
-body{
+body {
     font-family: Work Sans;
+}
+
+header {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* background-size: 80%; */
+    height: 808px; 
+    width: 1500px; 
+}
+.header-content{  
+    text-align: right;
+    padding: 216px 160px 0px 870px;
+}
+.header-title {
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.header-description {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+
+}
+
+.contact-us {
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 95, 172);
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+    margin-top: ;
+    border: none;
 }
